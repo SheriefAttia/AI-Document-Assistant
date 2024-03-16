@@ -15,7 +15,7 @@ Interactive command-line interface (CLI) for easy interaction
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/SheriefAttia/ai-document-assistant.git
+    git clone https://github.com/SheriefAttia/AI-Document-Assistant.git
     ```
 
 2. Install the required dependencies:
@@ -52,7 +52,7 @@ If you encounter any issues or errors while using the AI Document Assistant, ple
 - Make sure that the required Python dependencies are installed by running `pip install -r requirements.txt`.
 - Verify that your PDF file is accessible and correctly formatted.
 
-If the issue persists, feel free to open an [issue](https://github.com/SheriefAttia/ai-document-assistant/issues) on GitHub for assistance.
+If the issue persists, feel free to open an [issue](https://github.com/SheriefAttia/AI-Document-Assistant/issues) on GitHub for assistance.
 
 ## Contributing
 
